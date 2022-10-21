@@ -10,6 +10,18 @@
 	
 	
 	<item>
+		<title>New post!!!</title>
+		<link>https://Pereirajpf.github.io/posts/new_post/</link>
+		<pubDate>Fri, 21 Oct 2022 15:00:18 +0100</pubDate>
+		
+		<guid>https://Pereirajpf.github.io/posts/new_post/</guid>
+		<description>&lt;h1 id=&#34;titulo&#34;&gt;Titulo&lt;/h1&gt;
+&lt;h2 id=&#34;sub-titulo&#34;&gt;Sub-titulo&lt;/h2&gt;
+&lt;p&gt;Texto&amp;hellip;muito texto&amp;hellip;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>My First Post</title>
 		<link>https://Pereirajpf.github.io/posts/my-first-post/</link>
 		<pubDate>Wed, 19 Oct 2022 16:16:07 +0100</pubDate>
