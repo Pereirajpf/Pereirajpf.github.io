@@ -1,36 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>João Pereira&#39;s website</title>
-	<link>https://Pereirajpf.github.io/</link>
-	<description>Recent content in João Pereira&#39;s Website on João Pereira&#39;s website</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
-	<lastBuildDate>Fri, 21 Oct 2022 15:00:18 +0100</lastBuildDate>
+    <title>João Pereira&#39;s Website</title>
+    <link>https://Pereirajpf.github.io/</link>
+    <description>Recent content on João Pereira&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Pereirajpf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://Pereirajpf.github.io/my-first-post/</link>
+      <pubDate>Tue, 25 Oct 2022 15:34:19 +0100</pubDate>
+      
+      <guid>https://Pereirajpf.github.io/my-first-post/</guid>
+      <description>This is a test post!! Just testing&amp;hellip;
+This post is not a part of the /posts folder and, as such, will not appear in the Posts listings (aka menu)</description>
+    </item>
     
-        <atom:link href="https://Pereirajpf.github.io/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>New post!!!</title>
-		<link>https://Pereirajpf.github.io/posts/new_post/</link>
-		<pubDate>Fri, 21 Oct 2022 15:00:18 +0100</pubDate>
-		
-		<guid>https://Pereirajpf.github.io/posts/new_post/</guid>
-		<description>&lt;h1 id=&#34;titulo&#34;&gt;Titulo&lt;/h1&gt;
-&lt;h2 id=&#34;sub-titulo&#34;&gt;Sub-titulo&lt;/h2&gt;
-&lt;p&gt;Texto&amp;hellip;muito texto&amp;hellip;&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>My First Post</title>
-		<link>https://Pereirajpf.github.io/posts/my-first-post/</link>
-		<pubDate>Wed, 19 Oct 2022 16:16:07 +0100</pubDate>
-		
-		<guid>https://Pereirajpf.github.io/posts/my-first-post/</guid>
-		<description>&lt;p&gt;Test post&lt;/p&gt;
-</description>
-	</item>
-	
-	</channel>
+  </channel>
 </rss>
