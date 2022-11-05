@@ -6,16 +6,7 @@
     <description>Recent content in Posts on João Pereira&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 17:09:49 +0000</lastBuildDate><atom:link href="https://Pereirajpf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Sec Lev Post</title>
-      <link>https://Pereirajpf.github.io/posts/sec-lev-posts/sec-lev-post/</link>
-      <pubDate>Wed, 02 Nov 2022 17:09:49 +0000</pubDate>
-      
-      <guid>https://Pereirajpf.github.io/posts/sec-lev-posts/sec-lev-post/</guid>
-      <description>This is second level post This post is in a subfolder of the posts folder. Used to test submenus.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 05 Nov 2022 16:43:17 +0000</lastBuildDate><atom:link href="https://Pereirajpf.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
       <link>https://Pereirajpf.github.io/posts/my-third-post/</link>

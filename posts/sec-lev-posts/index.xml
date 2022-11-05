@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sec Lev Posts on João Pereira&#39;s Website</title>
+    <link>https://Pereirajpf.github.io/posts/sec-lev-posts/</link>
+    <description>Recent content in Sec Lev Posts on João Pereira&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2022 16:43:17 +0000</lastBuildDate><atom:link href="https://Pereirajpf.github.io/posts/sec-lev-posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sec Lev Post</title>
+      <link>https://Pereirajpf.github.io/posts/sec-lev-posts/sec-lev-post/</link>
+      <pubDate>Wed, 02 Nov 2022 17:09:49 +0000</pubDate>
+      
+      <guid>https://Pereirajpf.github.io/posts/sec-lev-posts/sec-lev-post/</guid>
+      <description>This is second level post This post is in a subfolder of the posts folder. Used to test submenus.</description>
+    </item>
+    
+  </channel>
+</rss>
