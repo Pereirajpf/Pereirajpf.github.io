@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acads on João Pereira&#39;s Website</title>
+    <link>https://Pereirajpf.github.io/acad/</link>
+    <description>Recent content in Acads on João Pereira&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 17:08:10 +0000</lastBuildDate><atom:link href="https://Pereirajpf.github.io/acad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Acad Post</title>
+      <link>https://Pereirajpf.github.io/acad/first-acad-post/</link>
+      <pubDate>Wed, 02 Nov 2022 17:08:10 +0000</pubDate>
+      
+      <guid>https://Pereirajpf.github.io/acad/first-acad-post/</guid>
+      <description>Post in the Academic folder Test file in the academic folder, to test menus&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

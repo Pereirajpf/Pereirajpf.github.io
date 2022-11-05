@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on João Pereira&#39;s Website</title>
+    <link>https://Pereirajpf.github.io/about/</link>
+    <description>Recent content in Abouts on João Pereira&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 18:39:01 +0000</lastBuildDate><atom:link href="https://Pereirajpf.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cont</title>
+      <link>https://Pereirajpf.github.io/about/cont/</link>
+      <pubDate>Wed, 02 Nov 2022 18:39:01 +0000</pubDate>
+      
+      <guid>https://Pereirajpf.github.io/about/cont/</guid>
+      <description>Contacts and other stuff&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Cv</title>
+      <link>https://Pereirajpf.github.io/about/cv/</link>
+      <pubDate>Wed, 02 Nov 2022 18:38:42 +0000</pubDate>
+      
+      <guid>https://Pereirajpf.github.io/about/cv/</guid>
+      <description>My cv&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
